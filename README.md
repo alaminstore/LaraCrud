@@ -3,7 +3,7 @@
 
 
 ## About This Project
-<p align="center">This is a simple CDUD application with image. Though it's a simple project, the main purpose to upload is all about to cover the basic main concept that all operators have needed.</p>
+<p align="center">This is just a simple CRUD application with image. Though it's a simple project, the main purpose to upload is all about to cover the basic main concept that all operators have needed.</p>
 ## Screenshot
 <hr>
 
